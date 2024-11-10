@@ -21,4 +21,4 @@
 
 
 ## 📃 My Stats
-![Lucas Picanco GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPicancoo&show_icons=true&theme=dark)
+![Lucas Picanco GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPicancoo&show_icons=true&theme=tokyonight)
