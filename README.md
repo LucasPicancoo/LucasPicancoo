@@ -22,4 +22,3 @@
 
 ## 📃 My Stats
 ![Lucas Picanco GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPicancoo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPicancoo&layout=compact&theme=dark)
